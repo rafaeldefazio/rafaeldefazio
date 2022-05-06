@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on data science projects.
 - 🌱 I’m currently learning Power BI and cloud computing for data science.
 - 👯 I’m looking to collaborate on PICOVID.
-- ⚡ Fun fact: First "hello world" before age 11.
+- ⚡ Fun fact: First "hello world" before age 11 using LAMP stack.
 
 
 <h3 align="left">Connect with me:</h3>
